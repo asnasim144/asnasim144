@@ -1,3 +1,14 @@
+<div align="center">
+
+```
+ █████╗ ███████╗    ███╗   ██╗ █████╗ ███████╗██╗███╗   ███╗
+██╔══██╗██╔════╝    ████╗  ██║██╔══██╗██╔════╝██║████╗ ████║
+███████║███████╗    ██╔██╗ ██║███████║███████╗██║██╔████╔██║
+██╔══██║╚════██║    ██║╚██╗██║██╔══██║╚════██║██║██║╚██╔╝██║
+██║  ██║███████║    ██║ ╚████║██║  ██║███████║██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
+```
+
 ### Backend & Full-Stack Engineer · Sylhet, Bangladesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-asnasim144-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asnasim144)
@@ -57,3 +68,60 @@ const nasim = {
 ---
 
 ## 💼 Experience
+
+```
+▸ Valt (Yo Tech)         Backend Developer       Mar 2025 – Present
+▸ Little Programmer      Software Engineer       Feb 2024 – Nov 2024
+▸ RyzinLab               Full-Stack Developer    Apr 2023 – Feb 2024
+```
+
+### Highlights
+
+- 🏗 Architected **microservices platforms** with 20+ independent services communicating via **RabbitMQ**
+- ⚡ Designed and shipped **200+ RESTful APIs** across multiple production systems
+- 🗄 Optimized **PostgreSQL & MongoDB** schemas for high-throughput, low-latency data access
+- 🎨 Built full-stack apps end-to-end with **Laravel + Next.js + MySQL**
+- 🔐 Implemented secure **authentication flows**, dynamic forms, and responsive dashboard UIs
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnasim144&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asnasim144&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=asnasim144&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education & Community
+
+- 🎓 **B.Sc. in Computer Science & Engineering** — North East University Bangladesh *(2019–2022)*
+- 🧑‍🏫 Conducted **7 ACM Workshops** on advanced computing & hands-on coding over 2 months
+- 🏛 Active organizer of **CSE Society** events, seminars & programming competitions
+
+---
+
+## 📬 Let's Connect
+
+> I'm always open to discussing backend architecture, microservices, or interesting engineering challenges.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asnasim144)
+[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnasim144@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=asnasim144&style=flat-square&color=6e7681" alt="Profile Views" />
+  <br/>
+  <sub>📍 Sylhet, Bangladesh</sub>
+</div>
